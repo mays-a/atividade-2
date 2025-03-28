@@ -1,6 +1,6 @@
 # atividade-2
 
-//Exercício1
+#Exercício1
 
 const meninos = ['Eduardo','Danilo', 'João']
 const meninas = ['Camila', 'Alice', 'Jasmin']
